@@ -52,23 +52,23 @@ projects:
     title: Open Source Contributions
     assignments:
 
-      - title: Apache Solr, SOLR-13272
+      - title: Apache Solr
         link: "https://issues.apache.org/jira/browse/SOLR-13272"
         tagline: "Custom interval facet support for json based faceting"
 
-      - title: Apache Solr, SOLR-13936
+      - title: Apache Solr
         link: "https://issues.apache.org/jira/browse/SOLR-13936"
         tagline: "REST Api endpoints to modify configurations/schema without a dedicated collection"
       
-      - title: Apache Solr, SOLR-11648
+      - title: Apache Solr
         link: "https://issues.apache.org/jira/browse/SOLR-11648"
         tagline: "Web ui to display and execute Apache solr autoscaling suggestions"
 
-      - title: Pippo Web Framework, Bug Fix
+      - title: Pippo Web Framework
         link: "https://github.com/pippo-java/pippo/pull/433"
         tagline: "Fix filestream resource bug"
 
-      - title: Squirrel, State machine library 
+      - title: Squirrel State machine library 
         link: "https://github.com/hekailiang/squirrel/issues/91"
         tagline: "Fix order of state machine initialization for persistence implementation"
 
